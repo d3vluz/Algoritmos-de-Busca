@@ -20,7 +20,7 @@ O trabalho considera dois paradigmas de implementação:
 
 #### 1. Algoritmos Seriais
 
-Implementações tradicionais, executadas em uma única thread.
+- Implementações tradicionais, executadas em uma única thread.
 
 #### 2. Algoritmos Paralelos
 
@@ -121,4 +121,4 @@ Arquivo principal: `BenchmarkRunnerGUI.java`
   * `numpy`
 
 ## Link do Projeto
-[clique aqui](https://github.com/d3vluz/Algoritmos-de-Busca)
+https://github.com/d3vluz/Algoritmos-de-Busca
