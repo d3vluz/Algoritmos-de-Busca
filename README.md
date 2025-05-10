@@ -2,7 +2,7 @@
 
 ## 📌 Resumo
 
-Este projeto implementa e compara o desempenho de quatro algoritmo de ordenação, sendo eles: Bubble Sort, **Merge Sort**, **Quick Sort** e **Counting Sort** — em versões **seriais** e **paralelas**. Ele inclui:
+Este projeto implementa e compara o desempenho de quatro algoritmo de ordenação, sendo eles: **Bubble Sort**, **Merge Sort**, **Quick Sort** e **Counting Sort** — em versões **seriais** e **paralelas**. Ele inclui:
 
 * Um framework completo para execução de benchmarks
 * Geração de relatórios em CSV
